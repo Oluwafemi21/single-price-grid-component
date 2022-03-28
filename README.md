@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Single Price Grid Component](https://your-solution-url.com)
-- Live Site URL: [Single Price Grid Component](https://your-live-site-url.com)
+- Solution URL: [Single Price Grid Component](https://github.com/Oluwafemi21/single-price-grid-component/)
+- Live Site URL: [Single Price Grid Component](https://oluwafemi21.github.io/single-price-grid-component/)
 
 ## My process
 
